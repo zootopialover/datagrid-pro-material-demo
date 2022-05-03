@@ -1,0 +1,26 @@
+{
+  "title": "DataGridProDemo Material Demo",
+  "name": "datagridprodemo-material-demo-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui-x/blob/v5.0.4/docs/src/pages/components/data-grid/overview/DataGridProDemo.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "@mui/x-data-grid-pro": "next",
+    "@mui/x-data-grid-generator": "next",
+    "@mui/styles": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  },
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
